@@ -1,2 +1,2 @@
 # Visual Explanations for CNN
-Experiments with GradCAM, GradCAM++, and ScoreCAM
+Experiments with GradCAM, GradCAM++, and ScoreCAM.
